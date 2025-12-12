@@ -2,13 +2,30 @@
 
 Welcome to my portfolio! My name is Cosmin, I'm an aspiring smart contract security researcher, both in web3 and traditional software. Below you'll find a selection of my most notable smart contract audits, competitive audit performances, and practice audits that showcase my skills and dedication to the field of smart contract security.
 
+## 🛡️ Vulnerability Track Record
+
+A summary of valid findings across competitive audits:
+
+- **High Severity:** 1 🔥
+- **Medium Severity:** 2 🟠
+
 ## 🏆 Competitive Audits
 
-### Kuru Competition (Cantina)
+### 🌐 Public Competitions
 
-- **Placement:** 3rd Place 🥉
-- **Highlights:** Identified a High Severity issue with low duplication.
+#### **Kuru (Cantina)**
+- **Placement:** **Rank 3/723** 🥉
+- **Highlights:** Identified a critical **High Severity** vulnerability with low duplication (4-man finding).
 - **Report:** [View Report](audit-competitions/cantina.pdf)
+
+### 🔒 Private Competitions
+
+#### **Avon (Cantina)**
+- **Placement:** **Rank 23 / 316 (Top 7%)**
+- **Highlights:** Found 2 medium issues.
+- **Report:** *[Private Report]*
+
+---
 
 ## 🦅 First Flights (CodeHawks)
 
