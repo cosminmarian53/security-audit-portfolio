@@ -1,6 +1,6 @@
 # Smart Contract Audit Portfolio
 
-Welcome to my portfolio! My name is Cosmin, I'm an aspiring smart contract security researcher, both in web3 and traditional software. Below you'll find a selection of my most notable smart contract audits, competitive audit performances, and practice audits that showcase my skills and dedication to the field of smart contract security.
+Welcome to my portfolio! My name is Cosmin, I'm a security researcher specializing in Web3 Smart Contracts (Rust/Solidity and Move) and Pentesting. Below you'll find a selection of my most notable smart contract audits, competitive audit performances, and practice audits that showcase my skills and dedication to the field of smart contract security.
 
 ## 🛡️ Vulnerability Track Record
 
