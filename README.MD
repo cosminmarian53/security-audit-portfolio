@@ -6,8 +6,8 @@ Welcome to my portfolio! My name is Cosmin, I'm a security researcher specializi
 
 A summary of valid findings across competitive audits:
 
-- **High Severity:** 1 🔥
-- **Medium Severity:** 2 🟠
+- **High Severity:** 2 🔥
+- **Medium Severity:** 3 🟠
 
 ## 🏆 Competitive Audits
 
@@ -17,6 +17,12 @@ A summary of valid findings across competitive audits:
 - **Placement:** **Rank 3/723** 🥉
 - **Highlights:** Identified a critical **High Severity** vulnerability with low duplication (4-man finding).
 - **Report:** [View Report](audit-competitions/cantina.pdf)
+
+#### **CurrentFinance (Sherlock)**
+- **Chain**: Sui
+- **Language**: Move
+- found 1 high and 1 medium severity issue
+- **Report:** [View results](https://audits.sherlock.xyz/contests/1256)
 
 ### 🔒 Private Competitions
 
