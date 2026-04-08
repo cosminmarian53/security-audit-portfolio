@@ -14,12 +14,15 @@ A summary of valid findings across competitive audits:
 ### 🌐 Public Competitions
 
 #### **Kuru (Cantina)**
+- **Chain**: Monad
 - **Placement:** **Rank 3/723** 🥉
+- **Language:** Solidity
 - **Highlights:** Identified a critical **High Severity** vulnerability with low duplication (4-man finding).
 - **Report:** [View Report](audit-competitions/cantina.pdf)
 
 #### **CurrentFinance (Sherlock)**
 - **Chain**: Sui
+- **Placement**: **Rank 29/509 (Top 5.7%)**
 - **Language**: Move
 - found 1 high and 1 medium severity issue
 - **Report:** [View results](https://audits.sherlock.xyz/contests/1256)
@@ -27,7 +30,9 @@ A summary of valid findings across competitive audits:
 ### 🔒 Private Competitions
 
 #### **Avon (Cantina)**
+- **Chain:** MegaETH
 - **Placement:** **Rank 23 / 316 (Top 7%)**
+- **Language:** Solidity
 - **Highlights:** Found 2 medium issues.
 - **Report:** *[Private Report]*
 
