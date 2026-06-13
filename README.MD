@@ -36,6 +36,16 @@ A summary of valid findings across competitive audits:
 - **Highlights:** Found 2 medium issues.
 - **Report:** *[Private Report]*
 
+#### **CertiK Stump the AI Auditor Competition**
+- **Placement:** **Rank 9/500+**
+- **Highlights:** Confirmed genuine vulnerability that stumped the AI Auditor. Publicly recognized on results thread, leading to a fast-tracked Security Researcher interview.
+
+## 🔍 Professional Triage Work
+
+#### **Pashov Audit Group** (Contract)
+- Conducted vulnerability triage and severity assessment for 3 codebases
+- Validated incoming security reports, verified PoC exploits, filtered false positives
+
 ---
 
 ## 🦅 First Flights (CodeHawks)
