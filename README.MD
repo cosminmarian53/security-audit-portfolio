@@ -43,7 +43,7 @@ A summary of valid findings across competitive audits:
 ## 🔍 Professional Triage Work
 
 #### **Pashov Audit Group** (Contract)
-- Conducted vulnerability triage and severity assessment for 3 codebases
+- Conducted vulnerability triage and severity assessment for 5 codebases
 - Validated incoming security reports, verified PoC exploits, filtered false positives
 
 ---
