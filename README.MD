@@ -53,6 +53,12 @@ Responsibilities included:
 - Filtering duplicates, invalid submissions, and false positives
 - Reviewing remediation quality and report clarity
 
+### 🔐 Professional Audits
+
+| Protocol    | Firm        | Stack           | Contribution        | Report                                                               |
+| ----------- | ----------- | --------------- | ------------------- | -------------------------------------------------------------------- |
+| **IZKONEN** | Kann Audits | Solidity / Base | **3 Informational** | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
+
 ---
 
 ## 🏆 Competitive Audits
