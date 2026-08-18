@@ -1,6 +1,6 @@
 # Cosmin Lavric — Smart Contract Security Researcher
 
-**Solidity · Move · Rust/Solana · Vulnerability Triage
+**Solidity · Move · Rust/Solana · Vulnerability Triage**
 
 I am a smart contract security researcher focused on uncovering exploitable logic flaws, broken accounting invariants, access-control failures, and state-manipulation attacks across EVM and Move-based protocols.
 
