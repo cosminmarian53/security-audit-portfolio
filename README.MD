@@ -4,8 +4,8 @@
 
 I am a smart contract security researcher focused on uncovering exploitable logic flaws, broken accounting invariants, access-control failures, and state-manipulation attacks across EVM and Move-based protocols.
 
-🏆 **Rank 3/723 in my first Cantina competition**  
-🛡️ **Professional audit and vulnerability-triage experience**  
+🏆 **Rank 3/723 in my first Cantina competition**
+🛡️ **Professional audit and vulnerability-triage experience**
 🔍 **Critical and High severity findings across Solidity and Move**
 
 [Telegram](https://t.me/cosminm53) · [Email](mailto:cosminlavric53@gmail.com) · [GitHub](https://github.com/cosminmarian53)
@@ -16,13 +16,13 @@ I am a smart contract security researcher focused on uncovering exploitable logi
 
 ## 📊 Track Record
 
-| Area | Result |
-|---|---|
-| Best public placement | **Rank 3/723 — Kuru, Cantina** |
-| Competitive audit findings | **2 High · 3 Medium** |
+| Area                           | Result                             |
+| ------------------------------ | ---------------------------------- |
+| Best public placement          | **Rank 3/723 — Kuru, Cantina**     |
+| Competitive audit findings     | **2 High · 3 Medium**              |
 | KannAudits internship findings | **2 Critical · 1 High · 5 Medium** |
-| Pashov triage assignments | **5 codebases** |
-| Security stacks | **Solidity · Move · Rust/Solana** |
+| Pashov triage assignments      | **5 codebases**                    |
+| Security stacks                | **Solidity · Move · Rust/Solana**  |
 
 ---
 
@@ -30,15 +30,15 @@ I am a smart contract security researcher focused on uncovering exploitable logi
 
 ### KannAudits — Security Research Intern
 
-Audited two protocols: one written in Solidity and one written in Move.
+Audited protocols across Solidity and Move.
 
-| Stack | Critical | High | Medium | Total |
-|---|---:|---:|---:|---:|
-| Solidity | 1 | 1 | 4 | **6** |
-| Move | 1 | 0 | 1 | **2** |
-| **Total** | **2** | **1** | **5** | **8** |
+| Stack     | Critical |  High | Medium | Total |
+| --------- | -------: | ----: | -----: | ----: |
+| Solidity  |        1 |     1 |      4 | **6** |
+| Move      |        1 |     0 |      1 | **2** |
+| **Total** |    **2** | **1** |  **5** | **8** |
 
-> Reports are awaiting publication.
+> Additional engagement reports are awaiting publication.
 
 ### Pashov Audit Group — Vulnerability Triage
 
@@ -48,16 +48,18 @@ Performed vulnerability triage and severity assessment across five codebases:
 
 Responsibilities included:
 
-- Reproducing and validating proof-of-concept exploits
-- Assessing root cause, exploitability, impact, and severity
-- Filtering duplicates, invalid submissions, and false positives
-- Reviewing remediation quality and report clarity
+* Reproducing and validating proof-of-concept exploits
+* Assessing root cause, exploitability, impact, and severity
+* Filtering duplicates, invalid submissions, and false positives
+* Reviewing remediation quality and report clarity
 
-### 🔐 Professional Audits
+---
 
-| Protocol    | Firm        | Stack           | Contribution        | Report                                                               |
-| ----------- | ----------- | --------------- | ------------------- | -------------------------------------------------------------------- |
-| **IZKONEN** | Kann Audits | Solidity / Base | **3 Informational** | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
+## 🔐 Professional Audits
+
+| Protocol    | Firm        | Stack           | Contribution        | Report                                                                                                                        |
+| ----------- | ----------- | --------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **IZKONEN** | Kann Audits | Solidity / Base | **3 Informational** | [View report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
 
 ---
 
@@ -65,17 +67,17 @@ Responsibilities included:
 
 ### Public Competitions
 
-| Competition | Platform | Stack | Result | Findings | Report |
-|---|---|---|---:|---|---|
-| **Kuru** | Cantina | Solidity / Monad | **3/723** | **1 High** | [Read report](audit-competitions/cantina.pdf) |
-| **CurrentFinance** | Sherlock | Move / Sui | **29/509 — Top 5.7%** | **1 High · 1 Medium** | [View results](https://audits.sherlock.xyz/contests/1256) |
+| Competition        | Platform | Stack            | Result                | Findings              | Report                                                                                                             |
+| ------------------ | -------- | ---------------- | --------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Kuru**           | Cantina  | Solidity / Monad | **3/723**             | **1 High**            | [Read report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/audit-competitions/cantina.pdf) |
+| **CurrentFinance** | Sherlock | Move / Sui       | **29/509 — Top 5.7%** | **1 High · 1 Medium** | [View results](https://audits.sherlock.xyz/contests/1256)                                                          |
 
 ### Private Competitions and Challenges
 
-| Competition | Platform | Stack | Result | Findings |
-|---|---|---|---:|---|
-| **Avon** | Cantina | Solidity / MegaETH | **23/316 — Top 7.3%** | **2 Medium** |
-| **Stump the AI Auditor** | CertiK | Smart contracts | **9/500+** | Confirmed a genuine vulnerability missed by the AI auditor |
+| Competition              | Platform | Stack              | Result                | Findings                                                   |
+| ------------------------ | -------- | ------------------ | --------------------- | ---------------------------------------------------------- |
+| **Avon**                 | Cantina  | Solidity / MegaETH | **23/316 — Top 7.3%** | **2 Medium**                                               |
+| **Stump the AI Auditor** | CertiK   | Smart contracts    | **9/500+**            | Confirmed a genuine vulnerability missed by the AI auditor |
 
 The CertiK result led to public recognition and a fast-tracked Security Researcher interview.
 
@@ -85,8 +87,8 @@ The CertiK result led to public recognition and a fast-tracked Security Research
 
 ### Kuru — Permissionless Deposit Enables Vault Poisoning and Permanent DoS
 
-**Severity:** High  
-**Competition result:** Rank 3/723 in my first Cantina competition  
+**Severity:** High
+**Competition result:** Rank 3/723 in my first Cantina competition
 **Category:** Cross-contract accounting · State poisoning · Denial of service
 
 `MarginAccount.deposit()` allowed any caller to credit tokens to an arbitrary address, including a protocol vault.
@@ -101,7 +103,7 @@ Once poisoned, the inconsistent accounting caused arithmetic failures during vir
 
 **Recommended remediation:** prevent direct deposits to registered market addresses and require protocol-owned balances to be updated only through authenticated flows that preserve all accounting invariants.
 
-➡️ **[Read the full Kuru report](audit-competitions/cantina.pdf)**
+➡️ **[Read the full Kuru report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/audit-competitions/cantina.pdf)**
 
 ---
 
@@ -109,18 +111,18 @@ Once poisoned, the inconsistent accounting caused arithmetic failures during vir
 
 ### Top Performances
 
-| Competition | Report |
-|---|---|
-| **Weather Witness** | [View report](first-flights/audit_report_weather_witness.md) |
-| **Snowman Merkle Airdrop** | [View report](first-flights/Cosmin-Snowman-Merkle-Airdrop-competitive-audit-report.md) |
+| Competition                | Report                                                                                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Weather Witness**        | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_weather_witness.md)                           |
+| **Snowman Merkle Airdrop** | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/Cosmin-Snowman-Merkle-Airdrop-competitive-audit-report.md) |
 
 ### Additional Competitions
 
-| Competition | Report |
-|---|---|
-| Bid Beasts | [View report](first-flights/Cosmin-Bid-Beasts.md) |
-| Hawk High | [View report](first-flights/hawk_high_first_flight_audit_report.pdf) |
-| Last Man Standing | [View report](first-flights/Cosmin-Last-Man-Standing.md) |
+| Competition       | Report                                                                                                                                    |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Bid Beasts        | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/Cosmin-Bid-Beasts.md)                    |
+| Hawk High         | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/hawk_high_first_flight_audit_report.pdf) |
+| Last Man Standing | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/Cosmin-Last-Man-Standing.md)             |
 
 ---
 
@@ -137,13 +139,13 @@ Completed Cohort 4 and received an **A− evaluation** for the capstone audit re
 <details>
 <summary><strong>View practice audit reports</strong></summary>
 
-| Protocol | Report |
-|---|---|
-| Boss Bridge | [View report](first-flights/audit_report_boss_bridge_cyfrin_updraft.pdf) |
-| Puppy Raffle | [View report](first-flights/audit_report_puppy_raffle.pdf) |
-| Password Store | [View report](first-flights/audit_report_password_store.pdf) |
-| TSwap | [View report](first-flights/audit_report_tswap.pdf) |
-| Thunder Loan | [View report](first-flights/audit_report_thunder_loan.pdf) |
+| Protocol       | Report                                                                                                                                        |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Boss Bridge    | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_boss_bridge_cyfrin_updraft.pdf) |
+| Puppy Raffle   | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_puppy_raffle.pdf)               |
+| Password Store | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_password_store.pdf)             |
+| TSwap          | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_tswap.pdf)                      |
+| Thunder Loan   | [View report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_thunder_loan.pdf)               |
 
 </details>
 
@@ -153,5 +155,5 @@ Completed Cohort 4 and received an **A− evaluation** for the capstone audit re
 
 Available for **solo or collaborative audit engagements**, private competitions, vulnerability triage, proof-of-concept validation, and security report review.
 
-**Telegram:** [@cosminm53](https://t.me/cosminm53)  
+**Telegram:** [@cosminm53](https://t.me/cosminm53)
 **Email:** [cosminlavric53@gmail.com](mailto:cosminlavric53@gmail.com)
