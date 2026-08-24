@@ -8,7 +8,7 @@ Smart contract security researcher focused on exploitable logic flaws, broken ac
 
 [Telegram](https://t.me/cosminm53) · [Email](mailto:cosminlavric53@gmail.com) · [GitHub](https://github.com/cosminmarian53)
 
-> **Available for solo audits, collaborative engagements, and vulnerability triage. *
+> **Available for solo audits, collaborative engagements, and vulnerability triage.**
 
 ---
 
