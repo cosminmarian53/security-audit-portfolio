@@ -4,7 +4,7 @@
 
 Smart contract security researcher focused on exploitable logic flaws, broken accounting invariants, access-control failures, and state-manipulation attacks across EVM and Move-based protocols.
 
-🏆 **Rank 3/723 — first Cantina competition** <br> · 🛡️ **Professional audit and triage experience** <br>· 🔍 **Critical and High findings across Solidity and Move**
+🏆 **Rank 3/723 — first Cantina competition** <br> 🛡️ **Professional audit and triage experience** <br> 🔍 **Critical and High findings across Solidity and Move**
 
 [Telegram](https://t.me/cosminm53) · [Email](mailto:cosminlavric53@gmail.com) · [GitHub](https://github.com/cosminmarian53)
 
