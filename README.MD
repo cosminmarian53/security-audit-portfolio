@@ -32,7 +32,7 @@ Smart contract security researcher focused on exploitable logic flaws, broken ac
 | --- | --- | --- | --- |
 | **Fluton** | Solidity / FHE · Aave · Diamond | **1 Critical · 1 High · 4 Medium** | [View report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
 | **IZKONEN** | Solidity / Base | **3 Informational** | [View report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
-| **APTree** | Move | **1 Critical · 1 Medium** | *Awaiting publication* |
+| **APTree** | Move | **1 Critical · 1 Medium** | [View report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf) |
 
 > Fluton is a privacy-focused DeFi protocol using fully homomorphic encryption (FHE) with Aave V3 integration and Diamond proxy architecture. The engagement covered confidential ERC-20 wrapping, cross-chain bridge flows, and encrypted lending operations across 19 contracts.
 
