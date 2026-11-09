@@ -21,7 +21,6 @@ Smart contract security researcher focused on exploitable logic flaws, broken ac
 | Best public placement | **Rank 3/723 (Kuru, Cantina)** |
 | Competitive audit findings | **2 High · 3 Medium** |
 | Professional audit findings (KannAudits) | **1 Critical · 3 High · 7 Medium · 4 Low · 5 Informational** (**20 total**) |
-| Raeto engagement | **9 findings personally identified · 9 marked fixed** |
 | Pashov triage assignments | **5 codebases** |
 | Security stacks | **Solidity · Move · Rust/Solana** |
 
