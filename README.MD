@@ -71,13 +71,6 @@
 | **Raeto** | `Solidity` · DeFi · Morpho · Vault Accounting | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![2 Medium](https://img.shields.io/badge/2_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | ![9 of 9 Fixed](https://img.shields.io/badge/9_of_9_Fixed-16A34A?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Raeto-security-review-2026-11-08.pdf) |
 | **IZKONEN** | `Solidity` · Base | ![3 Info](https://img.shields.io/badge/3_Info-64748B?style=flat-square) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
 
-#### 🔍 Spotlight — Raeto (100% Independent Finding Attribution)
-Personally identified **all 9 findings** documented in the November 8, 2026 security review, with **all 9 marked as fixed** in the final report. The review uncovered critical share-accounting manipulation, liquidation claim over-crediting, and loss-state repayment deadlocks in a DeFi system integrating Morpho and stock vaults:
-
-* ![H-01](https://img.shields.io/badge/H--01-High-EA580C?style=flat-square) **Morpho collateral donation / share-accounting manipulation:** Direct collateral donations distorted the share denominator used by `deposit()`, allowing a dust shareholder to extract value from subsequent depositors.
-* ![M-01](https://img.shields.io/badge/M--01-Medium-D97706?style=flat-square) **Over-credited liquidation claims:** Partial liquidations of an underwater stock vault could credit more claims than the vault actually held, forcing claimants to race on a first-come, first-served basis.
-* ![M-02](https://img.shields.io/badge/M--02-Medium-D97706?style=flat-square) **Repayment deadlock for underwater vaults:** All-or-nothing repayment paths prevented holders without spare `USDG` from exiting while debt continued to compound.
-
 ---
 
 ### 🛡️ Security Research Internship
