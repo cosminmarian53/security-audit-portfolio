@@ -80,9 +80,6 @@
 | **Fluton** | `Solidity` · FHE · Aave V3 · Diamond Proxy | ![1 Critical](https://img.shields.io/badge/1_Critical-DC2626?style=flat-square) ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![4 Medium](https://img.shields.io/badge/4_Medium-D97706?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
 | **APTree** | `Move` | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![1 Medium](https://img.shields.io/badge/1_Medium-D97706?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf) |
 
-> [!NOTE]
-> **Fluton Engagement Scope:** Audited a privacy-focused DeFi protocol utilizing Fully Homomorphic Encryption (FHE) integrated with Aave V3 and EIP-2535 Diamond proxy architecture. Covered confidential ERC-20 wrapping, cross-chain bridge flows, and encrypted lending operations across 19 smart contracts.
-
 ---
 
 ### ⚖️ Pashov Audit Group — Vulnerability Triage
