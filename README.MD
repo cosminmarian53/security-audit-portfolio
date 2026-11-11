@@ -56,7 +56,7 @@
 | :--- | :--- | :--- |
 | **Best Public Placement** | **Rank 3 / 723** | Kuru (Cantina) — Debut Competition |
 | **Professional Findings** | **23 Total Findings** | ![1 Critical](https://img.shields.io/badge/1_Critical-DC2626?style=flat-square) ![3 High](https://img.shields.io/badge/3_High-EA580C?style=flat-square) ![8 Medium](https://img.shields.io/badge/8_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![7 Info](https://img.shields.io/badge/7_Info-64748B?style=flat-square) |
-| **Competitive Findings** | **5 Escalated Findings** | ![2 High](https://img.shields.io/badge/2_High-EA580C?style=flat-square) ![3 Medium](https://img.shields.io/badge/3_Medium-D97706?style=flat-square) |
+| **Competitive Findings** | **5 Findings** | ![2 High](https://img.shields.io/badge/2_High-EA580C?style=flat-square) ![3 Medium](https://img.shields.io/badge/3_Medium-D97706?style=flat-square) |
 | **Vulnerability Triage** | **5 Production Codebases** | Pashov Audit Group (`Polygon` · `Monero` · `Sui Seal` · `Aptos` · `Wormhole`) |
 | **Security Stacks** | **Multi-Chain** | `Solidity (EVM)` · `Move (Sui / Aptos)` · `Rust (Solana)` |
 
