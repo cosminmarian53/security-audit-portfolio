@@ -69,7 +69,7 @@
 | Protocol | Stack & Architecture | Findings Breakdown | Remediation | Report |
 | :--- | :--- | :--- | :---: | :---: |
 | **Raeto** | `Solidity` · DeFi · Morpho · Vault Accounting | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![2 Medium](https://img.shields.io/badge/2_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | ![9 of 9 Fixed](https://img.shields.io/badge/9_of_9_Fixed-16A34A?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Raeto-security-review-2026-11-08.pdf) |
-| **Fluton** | `Solidity` 'Circom' · FHE · ZK Protocol | ![1 Medium](https://img.shields.io/badge/1_Medium-D97706?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-11-07.pdf) |
+| **Fluton** | `Solidity` `Circom` · FHE · ZK Protocol | ![1 Medium](https://img.shields.io/badge/1_Medium-D97706?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-11-07.pdf) |
 | **IZKONEN** | `Solidity` · Base | ![3 Info](https://img.shields.io/badge/3_Info-64748B?style=flat-square) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
 
 ---
