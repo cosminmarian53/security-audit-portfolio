@@ -40,7 +40,7 @@
   <!-- Clean, Easy-to-Read Bio Text -->
   <p align="center">
     Smart contract security researcher focused on <strong>exploitable logic flaws</strong>, <strong>broken accounting invariants</strong>,<br />
-    <strong>access-control failures</strong>, and <strong>state-manipulation attacks</strong> across EVM, Move, Solana, and ZK/FHE protocols.
+    <strong>access-control failures</strong>, and <strong>state-manipulation attacks</strong> across EVM, Move, Solana, and ZK protocols.
   </p>
 
   <!-- Neon Key Highlights Bar (Dark Left Label + Neon Right with Black Text) -->
@@ -80,7 +80,7 @@
 | **Vulnerability Triage** | ![5 Codebases](https://img.shields.io/badge/5_CODEBASES-E0AAFF?style=flat-square) | **Pashov Audit Group** — <kbd>Polygon</kbd> <kbd>Monero</kbd> <kbd>Sui Seal</kbd> <kbd>Aptos</kbd> <kbd>Wormhole</kbd> |
 | **Security Stacks** | ![Multi-Chain & ZK](https://img.shields.io/badge/MULTI--CHAIN_%26_ZK-FFA63B?style=flat-square) | <kbd>Solidity (EVM)</kbd> <kbd>Move (Sui / Aptos)</kbd> <kbd>Rust (Solana)</kbd> <kbd>Circom (ZK)</kbd> |
 | **Languages & Tooling** | ![Audit & PoC Stack](https://img.shields.io/badge/AUDIT_%26_POC_STACK-3DF5FF?style=flat-square) | <kbd>Solidity</kbd> <kbd>Move</kbd> <kbd>Rust</kbd> <kbd>Circom</kbd> <kbd>Python</kbd> <kbd>Foundry</kbd> |
-| **ZK & Cryptography** | ![Applied Math](https://img.shields.io/badge/CRYPTO_FOUNDATIONS-FCEE09?style=flat-square) | <kbd>ZK Circuits</kbd> <kbd>FHE</kbd> <kbd>Finite Fields</kbd> <kbd>Elliptic Curves (ECC)</kbd> <kbd>Modular Arithmetic</kbd> |
+| **ZK & Cryptography** | ![Applied Math](https://img.shields.io/badge/CRYPTO_FOUNDATIONS-FCEE09?style=flat-square) | <kbd>ZK Circuits</kbd>  <kbd>Finite Fields</kbd> <kbd>Elliptic Curves (ECC)</kbd> <kbd>Modular Arithmetic</kbd> |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
