@@ -26,7 +26,7 @@
   <!-- Key Highlights Bar -->
   <p>
     <img src="https://img.shields.io/badge/🏆_Cantina_Debut-Rank_3_of_723-F59E0B?style=flat-square&labelColor=1E293B" alt="Rank 3 of 723" />
-    <img src="https://img.shields.io/badge/🛡️_Professional_Audits-20_Findings_(4_Engagements)-10B981?style=flat-square&labelColor=1E293B" alt="20 Findings" />
+    <img src="https://img.shields.io/badge/🛡️_Professional_Audits-23_Findings_(5_Engagements)-10B981?style=flat-square&labelColor=1E293B" alt="23 Findings" />
     <img src="https://img.shields.io/badge/🔍_Top_Severities-Critical_&_High_(Solidity_·_Move)-EF4444?style=flat-square&labelColor=1E293B" alt="Critical and High" />
   </p>
 
@@ -55,7 +55,7 @@
 | Area | Summary | Breakdown |
 | :--- | :--- | :--- |
 | **Best Public Placement** | **Rank 3 / 723** | Kuru (Cantina) — Debut Competition |
-| **Professional Findings** | **20 Total Findings** | ![1 Critical](https://img.shields.io/badge/1_Critical-DC2626?style=flat-square) ![3 High](https://img.shields.io/badge/3_High-EA580C?style=flat-square) ![7 Medium](https://img.shields.io/badge/7_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![5 Info](https://img.shields.io/badge/5_Info-64748B?style=flat-square) |
+| **Professional Findings** | **23 Total Findings** | ![1 Critical](https://img.shields.io/badge/1_Critical-DC2626?style=flat-square) ![3 High](https://img.shields.io/badge/3_High-EA580C?style=flat-square) ![8 Medium](https://img.shields.io/badge/8_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![7 Info](https://img.shields.io/badge/7_Info-64748B?style=flat-square) |
 | **Competitive Findings** | **5 Escalated Findings** | ![2 High](https://img.shields.io/badge/2_High-EA580C?style=flat-square) ![3 Medium](https://img.shields.io/badge/3_Medium-D97706?style=flat-square) |
 | **Vulnerability Triage** | **5 Production Codebases** | Pashov Audit Group (`Polygon` · `Monero` · `Sui Seal` · `Aptos` · `Wormhole`) |
 | **Security Stacks** | **Multi-Chain** | `Solidity (EVM)` · `Move (Sui / Aptos)` · `Rust (Solana)` |
@@ -68,23 +68,4 @@
 
 | Protocol | Stack & Architecture | Findings Breakdown | Remediation | Report |
 | :--- | :--- | :--- | :---: | :---: |
-| **Raeto** | `Solidity` · DeFi · Morpho · Vault Accounting | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![2 Medium](https://img.shields.io/badge/2_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | ![9 of 9 Fixed](https://img.shields.io/badge/9_of_9_Fixed-16A34A?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Raeto-security-review-2026-11-08.pdf) |
-| **IZKONEN** | `Solidity` · Base | ![3 Info](https://img.shields.io/badge/3_Info-64748B?style=flat-square) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
-
----
-
-### 🛡️ Security Research Internship
-
-| Protocol | Stack & Architecture | Findings Breakdown | Report |
-| :--- | :--- | :--- | :---: |
-| **Fluton** | `Solidity` · FHE · Aave V3 · Diamond Proxy | ![1 Critical](https://img.shields.io/badge/1_Critical-DC2626?style=flat-square) ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![4 Medium](https://img.shields.io/badge/4_Medium-D97706?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
-| **APTree** | `Move` | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![1 Medium](https://img.shields.io/badge/1_Medium-D97706?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf) |
-
----
-
-### ⚖️ Pashov Audit Group — Vulnerability Triage
-
-Performed vulnerability triage and severity assessment across **five codebases**:
-
-<p>
-  <img src="
+| **Raeto** | `Solidity` · DeFi · Morpho · Vault Accounting | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![2 Medium](https://img.shields.io/badge/2_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | ![9 of 9 Fixed](https://img.shields.io/badge/9_of_9_Fixed-16A34A?style=flat-square) | [📄 PDF](
