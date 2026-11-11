@@ -1,133 +1,248 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=200&section=header&text=Cosmin%20Lavric&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Smart%20Contract%20Security%20Researcher&descSize=18&descColor=bae6fd&descAlignY=58" width="100%" alt="Cosmin Lavric Banner" />
+  <!-- Cyberpunk Neon Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090a0f,35:1a0033,70:ff0055,100:00f0ff&height=180&section=header&animation=fadeIn" width="100%" alt="Cyberpunk Banner" />
 
-  <!-- Centered Circular Avatar (auto-synced with your GitHub profile picture) -->
+  <!-- Centered Circular Avatar -->
   <a href="https://github.com/cosminmarian53">
-    <img src="https://images.weserv.nl/?url=https://github.com/cosminmarian53.png&w=135&h=135&fit=cover&mask=circle&maxage=7d" width="135" height="135" alt="Cosmin Lavric Avatar" />
+    <img src="https://images.weserv.nl/?url=https://github.com/cosminmarian53.png&w=140&h=140&fit=cover&mask=circle&maxage=7d" width="140" height="140" alt="Cosmin Lavric Avatar" />
   </a>
 
   <br /><br />
 
-  <!-- Tech Stack & Focus Pills -->
+  <!-- Cyberpunk Font (Orbitron) for Name & Primary Title -->
+  <a href="https://github.com/cosminmarian53">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1&pause=9999999&color=00F0FF&center=true&vCenter=true&repeat=false&width=800&height=50&lines=COSMIN+LAVRIC" alt="Cosmin Lavric" />
+  </a>
+  <br />
+  <a href="https://github.com/cosminmarian53">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1&pause=9999999&color=FF0055&center=true&vCenter=true&repeat=false&width=800&height=30&lines=%5B+SMART+CONTRACT+SECURITY+RESEARCHER+%5D" alt="Smart Contract Security Researcher" />
+  </a>
+
+  <br />
+
+  <!-- Animated Terminal Telemetry Subtitle (Share Tech Mono) -->
+  <a href="https://github.com/cosminmarian53">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=17&duration=2600&pause=900&color=FCEE09&center=true&vCenter=true&repeat=true&width=720&height=34&lines=%3E%3E+TARGET_STACKS%3A+EVM+%2F%2F+MOVE+%2F%2F+SOLANA+%2F%2F+ZK_%26_FHE;%3E%3E+VECTORS%3A+BROKEN+INVARIANTS+%2F%2F+STATE+MANIPULATION+%2F%2F+LOGIC+FLAWS;%3E%3E+RECORD%3A+RANK+3%2F723+CANTINA+DEBUT+%2F%2F+23+AUDIT+FINDINGS;%3E%3E+STATUS%3A+ONLINE+FOR+SOLO+AUDITS%2C+COLLABORATIONS+%26+TRIAGE" alt="Telemetry Subtitle" />
+  </a>
+
+  <br /><br />
+
+  <!-- Cyberpunk Tech Stack Pills -->
   <p>
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-    <img src="https://img.shields.io/badge/Move-0052FF?style=for-the-badge&logo=sui&logoColor=white" alt="Move" />
-    <img src="https://img.shields.io/badge/Rust_%2F_Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Rust/Solana" />
-    <img src="https://img.shields.io/badge/Vulnerability_Triage-4F46E5?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Vulnerability Triage" />
+    <img src="https://img.shields.io/badge/SOLIDITY-00F0FF?style=for-the-badge&labelColor=090A0F&logo=solidity&logoColor=00F0FF" alt="Solidity" />
+    <img src="https://img.shields.io/badge/MOVE-0052FF?style=for-the-badge&labelColor=090A0F&logo=sui&logoColor=00F0FF" alt="Move" />
+    <img src="https://img.shields.io/badge/RUST_%2F_SOLANA-00FF9D?style=for-the-badge&labelColor=090A0F&logo=solana&logoColor=00FF9D" alt="Rust/Solana" />
+    <img src="https://img.shields.io/badge/CIRCOM_%2F_ZK-B026FF?style=for-the-badge&labelColor=090A0F&logo=databricks&logoColor=B026FF" alt="Circom / ZK" />
+    <img src="https://img.shields.io/badge/VULN_TRIAGE-FF0055?style=for-the-badge&labelColor=090A0F&logo=securityscorecard&logoColor=FF0055" alt="Vulnerability Triage" />
   </p>
 
+  <!-- Clean, Easy-to-Read Bio Text -->
   <p align="center">
     Smart contract security researcher focused on <strong>exploitable logic flaws</strong>, <strong>broken accounting invariants</strong>,<br />
-    <strong>access-control failures</strong>, and <strong>state-manipulation attacks</strong> across EVM and Move-based protocols.
+    <strong>access-control failures</strong>, and <strong>state-manipulation attacks</strong> across EVM, Move, Solana, and ZK/FHE protocols.
   </p>
 
-  <!-- Key Highlights Bar -->
+  <!-- Neon Key Highlights Bar -->
   <p>
-    <img src="https://img.shields.io/badge/🏆_Cantina_Debut-Rank_3_of_723-F59E0B?style=flat-square&labelColor=1E293B" alt="Rank 3 of 723" />
-    <img src="https://img.shields.io/badge/🛡️_Professional_Audits-23_Findings_(5_Engagements)-10B981?style=flat-square&labelColor=1E293B" alt="23 Findings" />
-    <img src="https://img.shields.io/badge/🔍_Top_Severities-Critical_&_High_(Solidity_·_Move)-EF4444?style=flat-square&labelColor=1E293B" alt="Critical and High" />
+    <img src="https://img.shields.io/badge/🏆_CANTINA_DEBUT-RANK_3_%2F_723-FCEE09?style=flat-square&labelColor=090A0F" alt="Rank 3 of 723" />
+    <img src="https://img.shields.io/badge/🛡️_PRO_AUDITS-23_FINDINGS_(5_ENGAGEMENTS)-00FF9D?style=flat-square&labelColor=090A0F" alt="23 Findings" />
+    <img src="https://img.shields.io/badge/🔍_TOP_SEVERITIES-CRITICAL_%26_HIGH_(SOLIDITY_·_MOVE)-FF0055?style=flat-square&labelColor=090A0F" alt="Critical and High" />
   </p>
 
-  <!-- Contact & Social Buttons -->
+  <!-- Contact & Uplink Buttons -->
   <p>
     <a href="https://t.me/cosminm53">
-      <img src="https://img.shields.io/badge/Telegram-@cosminm53-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      <img src="https://img.shields.io/badge/TELEGRAM-@cosminm53-00F0FF?style=for-the-badge&labelColor=090A0F&logo=telegram&logoColor=00F0FF" alt="Telegram" />
     </a>
     <a href="mailto:cosminlavric53@gmail.com">
-      <img src="https://img.shields.io/badge/Email-cosminlavric53%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-cosminlavric53%40gmail.com-FF0055?style=for-the-badge&labelColor=090A0F&logo=gmail&logoColor=FF0055" alt="Email" />
     </a>
     <a href="https://github.com/cosminmarian53">
-      <img src="https://img.shields.io/badge/GitHub-cosminmarian53-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB-cosminmarian53-FCEE09?style=for-the-badge&labelColor=090A0F&logo=github&logoColor=FCEE09" alt="GitHub" />
     </a>
   </p>
 
 </div>
 
 > [!IMPORTANT]
-> **Available for solo audits, collaborative engagements, and vulnerability triage.**
+> **`[SYS::STATUS — ONLINE]`** Available for **solo audits**, **collaborative engagements**, and **vulnerability triage**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
-## 📊 Track Record at a Glance
+## ⚡ `[ 01 // TRACK_RECORD ]`
 
-| Area | Summary | Breakdown |
+| `[ METRIC ]` | `[ SUMMARY ]` | `[ TELEMETRY & BREAKDOWN ]` |
 | :--- | :--- | :--- |
-| **Best Public Placement** | **Rank 3 / 723** | Kuru (Cantina) — Debut Competition |
-| **Professional Findings** | **23 Total Findings** | ![1 Critical](https://img.shields.io/badge/1_Critical-DC2626?style=flat-square) ![3 High](https://img.shields.io/badge/3_High-EA580C?style=flat-square) ![8 Medium](https://img.shields.io/badge/8_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![7 Info](https://img.shields.io/badge/7_Info-64748B?style=flat-square) |
-| **Competitive Findings** | **5 Findings** | ![2 High](https://img.shields.io/badge/2_High-EA580C?style=flat-square) ![3 Medium](https://img.shields.io/badge/3_Medium-D97706?style=flat-square) |
-| **Vulnerability Triage** | **5 Production Codebases** | Pashov Audit Group (`Polygon` · `Monero` · `Sui Seal` · `Aptos` · `Wormhole`) |
-| **Security Stacks** | **Multi-Chain** | `Solidity (EVM)` · `Move (Sui / Aptos)` · `Rust (Solana)` |
+| **Best Public Placement** | ![Rank 3 / 723](https://img.shields.io/badge/🏆_RANK_3_%2F_723-FCEE09?style=flat-square&labelColor=090A0F) | **Kuru (Cantina)** — Debut Competition |
+| **Professional Findings** | ![23 Total Findings](https://img.shields.io/badge/23_TOTAL-00FF9D?style=flat-square&labelColor=090A0F) | ![1 Critical](https://img.shields.io/badge/CRIT-1-FF0055?style=flat-square&labelColor=090A0F) ![3 High](https://img.shields.io/badge/HIGH-3-FF5500?style=flat-square&labelColor=090A0F) ![8 Medium](https://img.shields.io/badge/MED-8-FCEE09?style=flat-square&labelColor=090A0F) ![4 Low](https://img.shields.io/badge/LOW-4-00FF66?style=flat-square&labelColor=090A0F) ![7 Info](https://img.shields.io/badge/INFO-7-00F0FF?style=flat-square&labelColor=090A0F) |
+| **Competitive Findings** | ![5 Findings](https://img.shields.io/badge/5_FINDINGS-00F0FF?style=flat-square&labelColor=090A0F) | ![2 High](https://img.shields.io/badge/HIGH-2-FF5500?style=flat-square&labelColor=090A0F) ![3 Medium](https://img.shields.io/badge/MED-3-FCEE09?style=flat-square&labelColor=090A0F) |
+| **Vulnerability Triage** | ![5 Codebases](https://img.shields.io/badge/5_CODEBASES-B026FF?style=flat-square&labelColor=090A0F) | **Pashov Audit Group** — <kbd>Polygon</kbd> <kbd>Monero</kbd> <kbd>Sui Seal</kbd> <kbd>Aptos</kbd> <kbd>Wormhole</kbd> |
+| **Security Stacks** | ![Multi-Chain & ZK](https://img.shields.io/badge/MULTI--CHAIN_%26_ZK-FF0055?style=flat-square&labelColor=090A0F) | <kbd>Solidity (EVM)</kbd> <kbd>Move (Sui / Aptos)</kbd> <kbd>Rust (Solana)</kbd> <kbd>Circom (ZK)</kbd> |
+| **Languages & Tooling** | ![Audit & PoC Stack](https://img.shields.io/badge/AUDIT_%26_POC_STACK-00F0FF?style=flat-square&labelColor=090A0F) | <kbd>Solidity</kbd> <kbd>Move</kbd> <kbd>Rust</kbd> <kbd>Circom</kbd> <kbd>Python</kbd> <kbd>Foundry</kbd> |
+| **ZK & Cryptography** | ![Applied Math](https://img.shields.io/badge/CRYPTO_FOUNDATIONS-FCEE09?style=flat-square&labelColor=090A0F) | <kbd>ZK Circuits</kbd> <kbd>FHE</kbd> <kbd>Finite Fields</kbd> <kbd>Elliptic Curves (ECC)</kbd> <kbd>Modular Arithmetic</kbd> |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
-## 🔐 Professional Audits — KannAudits
+## 🔐 `[ 02 // PROFESSIONAL_AUDITS :: KANNAUDITS ]`
 
-### 🤝 Independent Security Collaborations
+### 💠 `// INDEPENDENT_COLLABORATIONS`
 
-| Protocol | Stack & Architecture | Findings Breakdown | Remediation | Report |
+| `[ PROTOCOL ]` | `[ STACK & ARCHITECTURE ]` | `[ SEVERITY TELEMETRY ]` | `[ STATUS ]` | `[ LOG ]` |
 | :--- | :--- | :--- | :---: | :---: |
-| **Raeto** | `Solidity` · DeFi · Morpho · Vault Accounting | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![2 Medium](https://img.shields.io/badge/2_Medium-D97706?style=flat-square) ![4 Low](https://img.shields.io/badge/4_Low-059669?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | ![9 of 9 Fixed](https://img.shields.io/badge/9_of_9_Fixed-16A34A?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Raeto-security-review-2026-11-08.pdf) |
-| **Fluton** | `Solidity` `Circom` · FHE · ZK Protocol | ![1 Medium](https://img.shields.io/badge/1_Medium-D97706?style=flat-square) ![2 Info](https://img.shields.io/badge/2_Info-64748B?style=flat-square) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-11-07.pdf) |
-| **IZKONEN** | `Solidity` · Base | ![3 Info](https://img.shields.io/badge/3_Info-64748B?style=flat-square) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
+| **Raeto** | <kbd>Solidity</kbd> · DeFi · Morpho · Vault Accounting | ![1 High](https://img.shields.io/badge/HIGH-1-FF5500?style=flat-square&labelColor=090A0F) ![2 Medium](https://img.shields.io/badge/MED-2-FCEE09?style=flat-square&labelColor=090A0F) ![4 Low](https://img.shields.io/badge/LOW-4-00FF66?style=flat-square&labelColor=090A0F) ![2 Info](https://img.shields.io/badge/INFO-2-00F0FF?style=flat-square&labelColor=090A0F) | ![9 of 9 Fixed](https://img.shields.io/badge/FIXED-9%2F9-00FF9D?style=flat-square&labelColor=090A0F) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Raeto-security-review-2026-11-08.pdf) |
+| **Fluton** | <kbd>Solidity</kbd> <kbd>Circom</kbd> · FHE · ZK Protocol | ![1 Medium](https://img.shields.io/badge/MED-1-FCEE09?style=flat-square&labelColor=090A0F) ![2 Info](https://img.shields.io/badge/INFO-2-00F0FF?style=flat-square&labelColor=090A0F) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-11-07.pdf) |
+| **IZKONEN** | <kbd>Solidity</kbd> · Base | ![3 Info](https://img.shields.io/badge/INFO-3-00F0FF?style=flat-square&labelColor=090A0F) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
 
 ---
 
-### 🛡️ Security Research Internship
+### 🛡️ `// SECURITY_RESEARCH_INTERNSHIP`
 
-| Protocol | Stack & Architecture | Findings Breakdown | Report |
+| `[ PROTOCOL ]` | `[ STACK & ARCHITECTURE ]` | `[ SEVERITY TELEMETRY ]` | `[ LOG ]` |
 | :--- | :--- | :--- | :---: |
-| **Fluton** | `Solidity` · FHE · Aave V3 · Diamond Proxy | ![1 Critical](https://img.shields.io/badge/1_Critical-DC2626?style=flat-square) ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![4 Medium](https://img.shields.io/badge/4_Medium-D97706?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
-| **APTree** | `Move` | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![1 Medium](https://img.shields.io/badge/1_Medium-D97706?style=flat-square) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf) |
+| **Fluton** | <kbd>Solidity</kbd> · FHE · Aave V3 · Diamond Proxy | ![1 Critical](https://img.shields.io/badge/CRIT-1-FF0055?style=flat-square&labelColor=090A0F) ![1 High](https://img.shields.io/badge/HIGH-1-FF5500?style=flat-square&labelColor=090A0F) ![4 Medium](https://img.shields.io/badge/MED-4-FCEE09?style=flat-square&labelColor=090A0F) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
+| **APTree** | <kbd>Move</kbd> | ![1 High](https://img.shields.io/badge/HIGH-1-FF5500?style=flat-square&labelColor=090A0F) ![1 Medium](https://img.shields.io/badge/MED-1-FCEE09?style=flat-square&labelColor=090A0F) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf) |
 
 ---
 
-### ⚖️ Pashov Audit Group — Vulnerability Triage
+### ⚖️ `// PASHOV_AUDIT_GROUP :: VULNERABILITY_TRIAGE`
 
-Performed vulnerability triage and severity assessment across **five codebases**:
+Performed vulnerability triage and severity assessment across **five production codebases**:
 
 <p>
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white" alt="Polygon" />
-  <img src="https://img.shields.io/badge/Monero_Wallet-FF6600?style=flat-square&logo=monero&logoColor=white" alt="Monero Wallet" />
-  <img src="https://img.shields.io/badge/Sui_Seal-4DA2FF?style=flat-square&logo=sui&logoColor=white" alt="Sui Seal" />
-  <img src="https://img.shields.io/badge/Aptos_Token_Account-000000?style=flat-square&logo=aptos&logoColor=white" alt="Aptos Token Account" />
-  <img src="https://img.shields.io/badge/Wormhole-1E1E2E?style=flat-square" alt="Wormhole" />
+  <img src="https://img.shields.io/badge/POLYGON-B026FF?style=for-the-badge&labelColor=090A0F&logo=polygon&logoColor=B026FF" alt="Polygon" />
+  <img src="https://img.shields.io/badge/MONERO_WALLET-FF5500?style=for-the-badge&labelColor=090A0F&logo=monero&logoColor=FF5500" alt="Monero Wallet" />
+  <img src="https://img.shields.io/badge/SUI_SEAL-00F0FF?style=for-the-badge&labelColor=090A0F&logo=sui&logoColor=00F0FF" alt="Sui Seal" />
+  <img src="https://img.shields.io/badge/APTOS_TOKEN_ACCOUNT-00FF9D?style=for-the-badge&labelColor=090A0F&logo=aptos&logoColor=00FF9D" alt="Aptos Token Account" />
+  <img src="https://img.shields.io/badge/WORMHOLE-FF0055?style=for-the-badge&labelColor=090A0F&logo=chainlink&logoColor=FF0055" alt="Wormhole" />
 </p>
 
-* **Exploit Verification:** Reproduced and validated Proof-of-Concept (PoC) exploits against target state.
-* **Risk & Impact Scoring:** Assessed root cause, exploitability preconditions, financial impact, and severity levels.
-* **Signal Filtering:** Filtered duplicate reports, out-of-scope submissions, and false positives.
-* **Fix Review:** Evaluated remediation PR quality and final report clarity.
+- `<kbd>EXPLOIT_VERIFICATION</kbd>` — Reproduced and validated Proof-of-Concept (PoC) exploits against target state.
+- `<kbd>RISK_&_IMPACT_SCORING</kbd>` — Assessed root cause, exploitability preconditions, financial impact, and severity levels.
+- `<kbd>SIGNAL_FILTERING</kbd>` — Filtered duplicate reports, out-of-scope submissions, and false positives.
+- `<kbd>REMEDIATION_REVIEW</kbd>` — Evaluated remediation PR quality and final report clarity.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
-## 🏆 Competitive Audits
+## 🏆 `[ 03 // COMPETITIVE_AUDITS ]`
 
-| Competition | Platform | Stack | Placement | Findings | Link |
+| `[ TARGET ]` | `[ ARENA ]` | `[ STACK ]` | `[ RANKING ]` | `[ FINDINGS ]` | `[ PROOF ]` |
 | :--- | :--- | :--- | :---: | :--- | :---: |
-| **Kuru** | Cantina | `Solidity` / Monad | ![Rank 3 of 723](https://img.shields.io/badge/🏆_3_%2F_723-F59E0B?style=flat-square&labelColor=1E293B) | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) | [📄 Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/audit-competitions/cantina.pdf) |
-| **CurrentFinance** | Sherlock | `Move` / Sui | ![29 of 509 (Top 5.7%)](https://img.shields.io/badge/29_%2F_509_(Top_5.7%25)-3B82F6?style=flat-square) | ![1 High](https://img.shields.io/badge/1_High-EA580C?style=flat-square) ![1 Medium](https://img.shields.io/badge/1_Medium-D97706?style=flat-square) | [🔗 Results](https://audits.sherlock.xyz/contests/1256) |
-| **Avon** | Cantina | `Solidity` / MegaETH | ![23 of 316 (Top 7.3%)](https://img.shields.io/badge/23_%2F_316_(Top_7.3%25)-3B82F6?style=flat-square) | ![2 Medium](https://img.shields.io/badge/2_Medium-D97706?style=flat-square) | 🔒 Private |
-| **Stump the AI Auditor** | CertiK | Smart Contracts | ![9 of 500+](https://img.shields.io/badge/9_%2F_500%2B-10B981?style=flat-square) | ![AI Bypass](https://img.shields.io/badge/Confirmed_Flaw_AI_Missed-8B5CF6?style=flat-square) | — |
+| **Kuru** | Cantina | <kbd>Solidity</kbd> / Monad | ![Rank 3 of 723](https://img.shields.io/badge/🏆_3_%2F_723-FCEE09?style=flat-square&labelColor=090A0F) | ![1 High](https://img.shields.io/badge/HIGH-1-FF5500?style=flat-square&labelColor=090A0F) | [📄 Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/audit-competitions/cantina.pdf) |
+| **CurrentFinance** | Sherlock | <kbd>Move</kbd> / Sui | ![29 of 509 (Top 5.7%)](https://img.shields.io/badge/29_%2F_509_(TOP_5.7%25)-00F0FF?style=flat-square&labelColor=090A0F) | ![1 High](https://img.shields.io/badge/HIGH-1-FF5500?style=flat-square&labelColor=090A0F) ![1 Medium](https://img.shields.io/badge/MED-1-FCEE09?style=flat-square&labelColor=090A0F) | [🔗 Results](https://audits.sherlock.xyz/contests/1256) |
+| **Avon** | Cantina | <kbd>Solidity</kbd> / MegaETH | ![23 of 316 (Top 7.3%)](https://img.shields.io/badge/23_%2F_316_(TOP_7.3%25)-00F0FF?style=flat-square&labelColor=090A0F) | ![2 Medium](https://img.shields.io/badge/MED-2-FCEE09?style=flat-square&labelColor=090A0F) | 🔒 Private |
+| **Stump the AI Auditor** | CertiK | <kbd>Smart Contracts</kbd> | ![9 of 500+](https://img.shields.io/badge/9_%2F_500%2B-00FF9D?style=flat-square&labelColor=090A0F) | ![AI Bypass](https://img.shields.io/badge/AI_BYPASS_CONFIRMED-B026FF?style=flat-square&labelColor=090A0F) | — |
 
 > [!TIP]
-> **CertiK Recognition:** Placing Top 10 out of 500+ participants in *Stump the AI Auditor* led to public recognition and a fast-tracked Security Researcher interview at CertiK.
+> **`[SYS::RECOGNITION]`** Placing Top 10 out of 500+ participants in *Stump the AI Auditor* led to public recognition and a fast-tracked Security Researcher interview at **CertiK**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
-## 🔥 Featured Finding Deep-Dive
+## 🔥 `[ 04 // FEATURED_EXPLOIT_DEEP_DIVE ]`
 
-### Kuru: Permissionless Deposit Enables Vault Poisoning and Permanent DoS
+### `Kuru // Permissionless Deposit Enables Vault Poisoning & Permanent DoS`
 
 <p>
-  <img src="https://img.shields.io/badge/Severity-High-EA580C?style=flat-square" alt="Severity: High" />
-  <img src="https://img.shields.io/badge/Placement-Rank_3_of_723_(Cantina_Debut)-F59E0B?style=flat-square" alt="Rank 3 of 723" />
-  <img src="https://img.shields.io/badge/Vector-Cross--Contract_Accounting_·_State_Poisoning_·_DoS-475569?style=flat-square" alt="Vector" />
+  <img src="https://img.shields.io/badge/SEVERITY-HIGH-FF5500?style=flat-square&labelColor=090A0F" alt="Severity: High" />
+  <img src="https://img.shields.io/badge/PLACEMENT-RANK_3_%2F_723_(CANTINA_DEBUT)-FCEE09?style=flat-square&labelColor=090A0F" alt="Rank 3 of 723" />
+  <img src="https://img.shields.io/badge/VECTOR-ACCOUNTING_DESYNC_·_STATE_POISONING_·_DOS-00F0FF?style=flat-square&labelColor=090A0F" alt="Vector" />
 </p>
 
 `MarginAccount.deposit()` allowed any caller to credit tokens to an arbitrary address, including a protocol vault. An attacker could deposit directly on behalf of `KuruAMMVault`, inflating its recorded reserves without minting LP shares or updating pricing state. This desynchronized the core invariant across:
 
-```diff
+~~~mermaid
+flowchart LR
+    A["⚡ Attacker Node"] -- "1. MarginAccount.deposit(KuruAMMVault)" --> B["📈 Vault Reserves Inflated"]
+    B -. "2. Bypasses Share Mint & Sync" .-> C["⚠️ LP Supply & Pricing Desynced"]
+    C -- "3. Virtual Rebalancing" --> D["💀 Permanent Arithmetic DoS"]
+
+    style A fill:#090a0f,stroke:#00f0ff,stroke-width:2px,color:#00f0ff
+    style B fill:#090a0f,stroke:#fcee09,stroke-width:2px,color:#fcee09
+    style C fill:#090a0f,stroke:#b026ff,stroke-width:2px,color:#e9d5ff
+    style D fill:#1a000d,stroke:#ff0055,stroke-width:2px,color:#ff0055
+~~~
+
+~~~diff
 - [Vault Reserves]  <--X-->  [LP Share Supply]  <--X-->  [Market Pricing State]
-! Invariant broken: Direct margin credit bypasses vault share minting & AMM price sync
+! INVARIANT BROKEN: Direct margin credit bypasses vault share minting & AMM price sync
+~~~
+
+Once poisoned, the inconsistent accounting triggered arithmetic failures during virtual rebalancing—causing deposits, previews, and withdrawals to revert permanently and freezing liquidity-provider funds.
+
+➡️ **[`[ ACCESS FULL KURU TECHNICAL REPORT ]`](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/audit-competitions/cantina.pdf)**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+
+## 🎓 `[ 05 // TRAINING_&_CRYPTOGRAPHY ]`
+
+- **Rektoff Solana Rust Security Bootcamp (Cohort 4)** — Graduated with an ![Grade A-](https://img.shields.io/badge/EVALUATION-A--_GRADE-00FF9D?style=flat-square&labelColor=090A0F) on the capstone Solana audit report.
+- **Zero-Knowledge & Mathematical Cryptography** — Applied research in <kbd>Circom</kbd> constraint systems, finite field polynomial arithmetic, modular inverses, Chinese Remainder Theorem, and elliptic curve cryptography (ECC) modeled in <kbd>Python</kbd>.
+
+---
+
+## 🦅 `[ 06 // CODEHAWKS_FIRST_FLIGHTS_&_PRACTICE_LOGS ]`
+
+<details>
+<summary><strong>🏅 <code>[ ARCHIVE_01 // TOP_PERFORMANCES ]</code></strong></summary>
+<br />
+
+| `[ COMPETITION ]` | `[ DELIVERABLE ]` |
+| :--- | :---: |
+| **Weather Witness** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_weather_witness.md) |
+| **Snowman Merkle Airdrop** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/Cosmin-Snowman-Merkle-Airdrop-competitive-audit-report.md) |
+
+</details>
+
+<details>
+<summary><strong>⚔️ <code>[ ARCHIVE_02 // ADDITIONAL_FIRST_FLIGHTS ]</code></strong></summary>
+<br />
+
+| `[ COMPETITION ]` | `[ DELIVERABLE ]` |
+| :--- | :---: |
+| **Bid Beasts** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/Cosmin-Bid-Beasts.md) |
+| **Hawk High** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/hawk_high_first_flight_audit_report.pdf) |
+| **Last Man Standing** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/Cosmin-Last-Man-Standing.md) |
+
+</details>
+
+<details>
+<summary><strong>🛠️ <code>[ ARCHIVE_03 // PRACTICE_AUDIT_REPORTS ]</code></strong></summary>
+<br />
+
+| `[ PROTOCOL ]` | `[ DELIVERABLE ]` |
+| :--- | :---: |
+| **Boss Bridge** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_boss_bridge_cyfrin_updraft.pdf) |
+| **Puppy Raffle** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_puppy_raffle.pdf) |
+| **Password Store** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_password_store.pdf) |
+| **TSwap** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_tswap.pdf) |
+| **Thunder Loan** | [📄 View Report](https://github.com/cosminmarian53/security-audit-portfolio/blob/main/first-flights/audit_report_thunder_loan.pdf) |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+
+## 📬 `[ 07 // ESTABLISH_UPLINK ]`
+
+<div align="center">
+
+  <p>
+    Available for <strong>solo or collaborative audit engagements</strong>, private competitions,<br />
+    vulnerability triage, Proof-of-Concept validation, and security report review.
+  </p>
+
+  <p>
+    <a href="https://t.me/cosminm53">
+      <img src="https://img.shields.io/badge/TELEGRAM-@cosminm53-00F0FF?style=for-the-badge&labelColor=090A0F&logo=telegram&logoColor=00F0FF" alt="Telegram" />
+    </a>
+    <a href="mailto:cosminlavric53@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-cosminlavric53%40gmail.com-FF0055?style=for-the-badge&labelColor=090A0F&logo=gmail&logoColor=FF0055" alt="Email" />
+    </a>
+    <a href="https://github.com/cosminmarian53">
+      <img src="https://img.shields.io/badge/GITHUB-cosminmarian53-FCEE09?style=for-the-badge&labelColor=090A0F&logo=github&logoColor=FCEE09" alt="GitHub" />
+    </a>
+  </p>
+
+  <!-- Cyberpunk Neon Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,30:ff0055,65:1a0033,100:090a0f&height=110&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
