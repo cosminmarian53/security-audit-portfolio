@@ -23,7 +23,7 @@
 
   <!-- Animated Terminal Telemetry Subtitle (Share Tech Mono) -->
   <a href="https://github.com/cosminmarian53">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=17&duration=2600&pause=900&color=FCEE09&center=true&vCenter=true&repeat=true&width=720&height=34&lines=%3E%3E+TARGET_STACKS%3A+EVM+%2F%2F+MOVE+%2F%2F+SOLANA+%2F%2F+ZK_%26_FHE;%3E%3E+VECTORS%3A+BROKEN+INVARIANTS+%2F%2F+STATE+MANIPULATION+%2F%2F+LOGIC+FLAWS;%3E%3E+RECORD%3A+RANK+3%2F723+CANTINA+DEBUT+%2F%2F+23+AUDIT+FINDINGS;%3E%3E+STATUS%3A+ONLINE+FOR+SOLO+AUDITS%2C+COLLABORATIONS+%26+TRIAGE" alt="Telemetry Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=17&duration=2600&pause=900&color=FCEE09&center=true&vCenter=true&repeat=true&width=720&height=34&lines=%3E%3E+TARGET_STACKS%3A+EVM+%2F%2F+MOVE+%2F%2F+SOLANA+%2F%2F+ZK_%26_FHE;%3E%3E+VECTORS%3A+BROKEN+INVARIANTS+%2F%2F+STATE+MANIPULATION+%2F%2F+LOGIC+FLAWS;%3E%3E+RECORD%3A+RANK+3%2F723+CANTINA+DEBUT+%2F%2F+34+AUDIT+FINDINGS;%3E%3E+STATUS%3A+ONLINE+FOR+SOLO+AUDITS%2C+COLLABORATIONS+%26+TRIAGE" alt="Telemetry Subtitle" />
   </a>
 
   <br /><br />
@@ -46,7 +46,7 @@
   <!-- Neon Key Highlights Bar (Dark Left Label + Neon Right with Black Text) -->
   <p>
     <img src="https://img.shields.io/badge/🏆_CANTINA_DEBUT-RANK_3_%2F_723-FCEE09?style=flat-square&labelColor=090A0F" alt="Rank 3 of 723" />
-    <img src="https://img.shields.io/badge/🛡️_PRO_AUDITS-23_FINDINGS_(5_ENGAGEMENTS)-4DFFB8?style=flat-square&labelColor=090A0F" alt="23 Findings" />
+    <img src="https://img.shields.io/badge/🛡️_PRO_AUDITS-34_FINDINGS_(6_ENGAGEMENTS)-4DFFB8?style=flat-square&labelColor=090A0F" alt="34 Findings" />
     <img src="https://img.shields.io/badge/🔍_TOP_SEVERITIES-CRITICAL_%26_HIGH_(SOLIDITY_·_MOVE)-FFA63B?style=flat-square&labelColor=090A0F" alt="Critical and High" />
   </p>
 
@@ -75,12 +75,12 @@
 | `[ METRIC ]` | `[ SUMMARY ]` | `[ TELEMETRY & BREAKDOWN ]` |
 | :--- | :--- | :--- |
 | **Best Public Placement** | ![Rank 3 / 723](https://img.shields.io/badge/🏆_RANK_3_%2F_723-FCEE09?style=flat-square) | **Kuru (Cantina)** — Debut Competition |
-| **Professional Findings** | ![23 Total Findings](https://img.shields.io/badge/23_TOTAL_FINDINGS-4DFFB8?style=flat-square) | ![1 Critical](https://img.shields.io/badge/CRIT-1-FF0055?style=flat-square&labelColor=090A0F) ![3 High](https://img.shields.io/badge/HIGH-3-FFA63B?style=flat-square&labelColor=090A0F) ![8 Medium](https://img.shields.io/badge/MED-8-FCEE09?style=flat-square&labelColor=090A0F) ![4 Low](https://img.shields.io/badge/LOW-4-66FF7A?style=flat-square&labelColor=090A0F) ![7 Info](https://img.shields.io/badge/INFO-7-3DF5FF?style=flat-square&labelColor=090A0F) |
+| **Professional Findings** | ![34 Total Findings](https://img.shields.io/badge/34_TOTAL_FINDINGS-4DFFB8?style=flat-square) | ![1 Critical](https://img.shields.io/badge/CRIT-1-FF0055?style=flat-square&labelColor=090A0F) ![3 High](https://img.shields.io/badge/HIGH-3-FFA63B?style=flat-square&labelColor=090A0F) ![10 Medium](https://img.shields.io/badge/MED-10-FCEE09?style=flat-square&labelColor=090A0F) ![7 Low](https://img.shields.io/badge/LOW-7-66FF7A?style=flat-square&labelColor=090A0F) ![13 Info](https://img.shields.io/badge/INFO-13-3DF5FF?style=flat-square&labelColor=090A0F) |
 | **Competitive Findings** | ![5 Findings](https://img.shields.io/badge/5_FINDINGS-3DF5FF?style=flat-square) | ![2 High](https://img.shields.io/badge/HIGH-2-FFA63B?style=flat-square&labelColor=090A0F) ![3 Medium](https://img.shields.io/badge/MED-3-FCEE09?style=flat-square&labelColor=090A0F) |
 | **Vulnerability Triage** | ![5 Codebases](https://img.shields.io/badge/5_CODEBASES-E0AAFF?style=flat-square) | **Pashov Audit Group** — <kbd>Polygon</kbd> <kbd>Monero</kbd> <kbd>Sui Seal</kbd> <kbd>Aptos</kbd> <kbd>Wormhole</kbd> |
 | **Security Stacks** | ![Multi-Chain & ZK](https://img.shields.io/badge/MULTI--CHAIN_%26_ZK-FFA63B?style=flat-square) | <kbd>Solidity (EVM)</kbd> <kbd>Move (Sui / Aptos)</kbd> <kbd>Rust (Solana)</kbd> <kbd>Circom (ZK)</kbd> |
 | **Languages & Tooling** | ![Audit & PoC Stack](https://img.shields.io/badge/AUDIT_%26_POC_STACK-3DF5FF?style=flat-square) | <kbd>Solidity</kbd> <kbd>Move</kbd> <kbd>Rust</kbd> <kbd>Circom</kbd> <kbd>Python</kbd> <kbd>Foundry</kbd> |
-| **ZK & Cryptography** | ![Applied Math](https://img.shields.io/badge/CRYPTO_FOUNDATIONS-FCEE09?style=flat-square) | <kbd>ZK Circuits</kbd>  <kbd>Finite Fields</kbd> <kbd>Elliptic Curves (ECC)</kbd> <kbd>Modular Arithmetic</kbd> |
+| **ZK & Cryptography** | ![Applied Math](https://img.shields.io/badge/CRYPTO_FOUNDATIONS-FCEE09?style=flat-square) | <kbd>ZK Circuits</kbd> <kbd>Finite Fields</kbd> <kbd>Elliptic Curves (ECC)</kbd> <kbd>Modular Arithmetic</kbd> |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
@@ -90,6 +90,7 @@
 
 | `[ PROTOCOL ]` | `[ STACK & ARCHITECTURE ]` | `[ SEVERITY TELEMETRY ]` | `[ STATUS ]` | `[ LOG ]` |
 | :--- | :--- | :--- | :---: | :---: |
+| **Oak Agent** | <kbd>Solidity</kbd> | ![2 Medium](https://img.shields.io/badge/MED-2-FCEE09?style=flat-square&labelColor=090A0F) ![3 Low](https://img.shields.io/badge/LOW-3-66FF7A?style=flat-square&labelColor=090A0F) ![6 Info](https://img.shields.io/badge/INFO-6-3DF5FF?style=flat-square&labelColor=090A0F) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Oak-Agent-security-review-2026-11-17.pdf) |
 | **Raeto** | <kbd>Solidity</kbd> · DeFi · Morpho · Vault Accounting | ![1 High](https://img.shields.io/badge/HIGH-1-FFA63B?style=flat-square&labelColor=090A0F) ![2 Medium](https://img.shields.io/badge/MED-2-FCEE09?style=flat-square&labelColor=090A0F) ![4 Low](https://img.shields.io/badge/LOW-4-66FF7A?style=flat-square&labelColor=090A0F) ![2 Info](https://img.shields.io/badge/INFO-2-3DF5FF?style=flat-square&labelColor=090A0F) | ![9 of 9 Fixed](https://img.shields.io/badge/FIXED-9%2F9-4DFFB8?style=flat-square&labelColor=090A0F) | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Raeto-security-review-2026-11-08.pdf) |
 | **Fluton** | <kbd>Solidity</kbd> <kbd>Circom</kbd> · FHE · ZK Protocol | ![1 Medium](https://img.shields.io/badge/MED-1-FCEE09?style=flat-square&labelColor=090A0F) ![2 Info](https://img.shields.io/badge/INFO-2-3DF5FF?style=flat-square&labelColor=090A0F) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-11-07.pdf) |
 | **IZKONEN** | <kbd>Solidity</kbd> · Base | ![3 Info](https://img.shields.io/badge/INFO-3-3DF5FF?style=flat-square&labelColor=090A0F) | — | [📄 PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/IZKONEN-security-review-2026-08-18.pdf) |
